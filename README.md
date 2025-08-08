@@ -1,6 +1,8 @@
 # 📚 Library Management System
 
-A full-stack Library Management System built using **Java Spring Boot**, **Thymeleaf**, and **MySQL**, with support for multiple user roles (Admin, Librarian, Student), book management, and book issuing/return functionality.
+A full-stack Library Management System built using **Java Spring Boot**, **Thymeleaf**, and **MySQL**, with 
+support for multiple user roles (Admin, Librarian, Student), book management, and book issuing/return 
+functionality.
 
 ---
 
@@ -30,30 +32,14 @@ A full-stack Library Management System built using **Java Spring Boot**, **Thyme
 
 ---
 
-## 🖼️ Screenshots
-
-> *(Include screenshots of the login page, dashboard, book list, and issue screen here if available)*
-
----
-
-## 📂 Project Structure
-src/
-├── controller/
-├── model/
-├── repository/
-├── service/
-├── security/
-├── templates/
-└── application.properties
----
-
-## ⚙️ How to Run
-
 ### ✅ Prerequisites
 
 - Java 17+
 - Maven
 - MySQL Server
+
+
+
 🔐 Default Users
 
 Role          Username    Password
